@@ -1,4 +1,5 @@
-# https://discord.gg/STaq3UDbqQ - BOT is being hosted here as an example.
+# https://discord.gg/STaq3UDbqQ 
+# BOT is being hosted here as an example.
 
 # discord-bot-lua-obfuscator (python 3.7.9)
 
