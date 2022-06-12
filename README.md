@@ -4,7 +4,7 @@
 
 # Original code: https://github.com/yunglean4171
 
-Simple discord bot written in python obfuscating lua files sent by user on specified channel (also works in direct messages). 
+Simple discord bot written in python for obfuscating lua files sent by a user in a specific channel (also works in direct messages). 
 Useful for securing your lua scripts (work with fivem/roblox etc resources).
 
 ```
