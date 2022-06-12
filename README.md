@@ -17,29 +17,7 @@ In repl shell type chmod +x bin/* to allow lit luvi & luvit to be executed.
 Enjoy your free private obfuscator.
 ```
 
-## Build with:
+## Required python modules:
 - Discord.py 
 - requests
-
-## Installation
-- Install lua for your os: https://www.lua.org/download.html
-- clone this repo by running this command: 
-```
-git clone https://github.com/yunglean4171/discord-bot-lua-obfuscator.git
-```
-- Install required packages by running this command:
-```
-pip install -r requirements.txt
-```
-- Edit lines 10 & 11 with your discord bot token and channel ID
-
-![](https://i.imgur.com/rmBojkN.png)
-- Start bot by running this command:
-```
-python bot.py
-```
-
-### After completing all these steps youre good to go!
-
-# Contributing
-If you have some ideas that you want to suggest please make a [pull requests](https://github.com/yunglean4171/discord-bot-lua-obfuscator/pulls) and if you found some bugs please make an [issue](https://github.com/yunglean4171/discord-bot-lua-obfuscator/issues). Every contribution will be appreciated.
+- Flask
