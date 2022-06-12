@@ -12,24 +12,21 @@ from itertools import cycle
 
 app = Flask('')
 
-
 @app.route('/')
 def main():
     return "Your Bot Is Ready"
 
-
 def run():
     app.run(host="0.0.0.0", port=8000)
-
-
+    
 def keep_alive():
     server = Thread(target=run)
     server.start()
-
-
-#Make sure you add Discord bot token in Secrets with a key named DISCORD_TOKEN
+ 
+# make sure you add discord bot token in secret environment variables with a key named DISCORD_TOKEN
 token = os.environ['DISCORD_TOKEN']
-#channel id of the channel you want the bot obfuscate in. (works in DMs as well)
+# channel id of the channel you want the bot obfuscate in. 
+# with developer settings enabled right click channel and copy id. (bot works in direct messages as well)
 channel_id = 985398542233387018
 
 bot = commands.Bot(command_prefix="!")
