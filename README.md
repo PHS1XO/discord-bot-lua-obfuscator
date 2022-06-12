@@ -8,9 +8,9 @@ Useful for securing your lua scripts (work with fivem/roblox etc resources).
 ```
 Original code: https://github.com/yunglean4171
 This is a modified version for repl.
-Import from github on repl.com
-Add DISCORD_TOKEN to System environment variables.
-In repl Shell type chmod +x bin/ to allow luvit to be executed.
+In repl start a blank template and import from github.com. https://github.com/jmesfo0/discord-bot-lua-obfuscator 
+In repl put DISCORD_TOKEN in system environment variables.
+In repl shell type chmod +x bin/* to allow lit luvi & luvit to be executed.
 Enjoy your free private obfuscator.
 ```
 
