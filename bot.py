@@ -31,7 +31,6 @@ def keep_alive():
 token = os.environ['DISCORD_TOKEN']
 #channel id of the channel you want the bot obfuscate in. (works in DMs as well)
 channel_id = 985398542233387018
-file_path = r"/home/runner/obfuscatorbot"
 
 bot = commands.Bot(command_prefix="!")
 bot.remove_command("help")
