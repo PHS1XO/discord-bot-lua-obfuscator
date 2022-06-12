@@ -1,6 +1,3 @@
-# https://discord.gg/STaq3UDbqQ 
-# BOT is being hosted here as an example.
-
 # discord-bot-lua-obfuscator (python 3.7.9)
 
 # Preview: https://youtu.be/ft7_UrsT348
@@ -17,8 +14,12 @@ In repl start a blank template and import from github.com. https://github.com/jm
 In repl put DISCORD_TOKEN in system environment variables.
 In repl shell type chmod +x bin/* to allow lit luvi & luvit to be executed.
 Enjoy your free private obfuscator.
-
 ```
+FreeGuard
+https://discord.gg/STaq3UDbqQ 
+BOT is being hosted here as an example. Completely FREE!
+
+
 
 ## Build with:
 - Discord.py 
