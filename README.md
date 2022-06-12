@@ -6,7 +6,11 @@ Original code: https://github.com/yunglean4171
 
 This is a modified version for repl. 
 
-Import from github on repl.com and add DISCORD_TOKEN to your Secret environmental variables.
+Import from github on repl.com
+
+Add DISCORD_TOKEN to System environment variables.
+
+Enjoy your free private obfuscator.
 
 Simple discord bot written in python obfuscating lua files sent by user on specified channel. Useful for securing your lua scripts (work with fivem/roblox etc resources).
 
