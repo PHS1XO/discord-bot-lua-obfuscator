@@ -21,3 +21,16 @@ Enjoy your free private obfuscator.
 - Discord.py 
 - requests
 - Flask
+
+
+
+## Heroku Guide
+
+Fork this repoistory.<br />
+Create an app on Heroku.<br />
+Select Deploy->Github and connect your account.<br />
+Put repo name in.<br />
+Select Enable Automatic Deploys then Deploy Branch<br />
+Go to Settings->Reveal Config Vars<br />
+Add DISCORD_TOKEN in environmental variables.<br />
+Done.
