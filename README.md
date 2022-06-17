@@ -1,6 +1,6 @@
 # discord-bot-lua-obfuscator (python 3.7.9)
 
-<img src="https://i.imgur.com/oQPoP4S.png">
+<img src="https://i.imgur.com/vKhRl2F.png">
 
 # Preview: https://discord.gg/STaq3UDbqQ 
 
