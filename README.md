@@ -1,8 +1,9 @@
 # discord-bot-lua-obfuscator (python 3.7.9)
 
+# Live Preview: https://discord.gg/STaq3UDbqQ
 <img src="https://i.imgur.com/DlO9XIa.png">
 
-# Preview: https://discord.gg/STaq3UDbqQ 
+ 
 
 
 # Original code: https://github.com/yunglean4171
