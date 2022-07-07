@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@PHS1XO 
+PHS1XO
+/
+discord-bot-lua-obfuscator
+Public
+forked from jmesfo0/discord-bot-lua-obfuscator
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+discord-bot-lua-obfuscator/bot.py /
+@jmesfo0
+jmesfo0 Update bot.py
+Latest commit 82b4122 25 days ago
+ History
+ 1 contributor
+193 lines (156 sloc)  6.66 KB
+
 from importlib.resources import path
 import discord
 from discord.ext import commands, tasks
@@ -27,7 +56,7 @@ def keep_alive():
 token = os.environ['DISCORD_TOKEN']
 # channel id of the channel you want the bot obfuscate in. 
 # with developer settings enabled right click channel and copy id. (bot works in direct messages as well)
-channel_id = 985608627723337768
+channel_id = 994709144449851452
 
 bot = commands.Bot(command_prefix="!")
 bot.remove_command("help")
@@ -191,3 +220,18 @@ async def on_message(message):
 
 
 bot.run(token)
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
