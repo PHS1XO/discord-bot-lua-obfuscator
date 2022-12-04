@@ -143,7 +143,7 @@ async def on_message(message):
 
                         open(path, "wb").write(response.content)
                         obfuscation(path, author)
-                        embed = discord.Embed(title="File has been obfuscated",
+                        embed = discord.Embed(title="DevFuscated!",
                                               color=0x3357FF)
                         dm = await message.author.create_dm()
                         await dm.send(
@@ -180,7 +180,7 @@ async def on_message(message):
 
                         open(path, "wb").write(response.content)
                         obfuscation(path, author)
-                        embed = discord.Embed(title="File has been obfuscated",
+                        embed = discord.Embed(title="DevFuscated!",
                                               color=0x3357FF)
                         await channel.send(
                             embed=embed,
